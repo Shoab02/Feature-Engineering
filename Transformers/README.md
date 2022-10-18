@@ -2,4 +2,4 @@
   src="../images/dist_image.jpg"
   alt="Distribution image"
   title="Dist and QQ plot"
-  style="display: inline-block; margin: 0 auto; max-width: 50px; max-height: 50px">
+  style="display: inline-block; margin: 0 auto; width: 50px; height: 50px">
