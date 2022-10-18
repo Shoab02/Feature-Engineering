@@ -1,2 +1,2 @@
 
-![My Image](images/dist-image.jpg)
+![My Image](./images/dist-image.jpg)
